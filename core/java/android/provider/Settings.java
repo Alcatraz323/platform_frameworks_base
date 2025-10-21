@@ -7495,6 +7495,16 @@ public final class Settings {
          * @hide
          */
         public static final String UDFPS_ICON = "udfps_icon";
+		
+        /**
+         * @hide
+         */
+        public static final String UDFPS_ICON_TYPE = "udfps_icon_type";
+
+        /**
+         * @hide
+         */
+        public static final String UDFPS_CUSTOM_FP_ICON_PATH = "udfps_custom_fp_icon_path";
 
         /**
          * Whether edge light is enabled.
